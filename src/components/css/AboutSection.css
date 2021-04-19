@@ -1,0 +1,24 @@
+.about-section-content {
+    max-width: 1300px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+  }
+  
+.about-main-section{
+    height: 100vh;
+    background-image: url("../../assets/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-me{
+  align-self: center;
+}
+
+.about-my-image{
+  align-self: flex-end;
+}

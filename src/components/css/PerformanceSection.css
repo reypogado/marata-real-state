@@ -1,0 +1,11 @@
+.performance-section-content {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 40px;
+    overflow: hidden;
+  }
+  
+.performance-main-section{
+  height: 100vh;
+    background: #0474ac;
+}
